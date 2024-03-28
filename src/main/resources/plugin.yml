@@ -1,0 +1,8 @@
+name: Aura
+version: ${project.version}
+main: de.lukas.aura.Main
+authors: [Lukas]
+description: Auro = SchutzSchild
+
+commands:
+  aura:
